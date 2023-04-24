@@ -1,0 +1,19 @@
+.banner{
+    background-image: url(C:\Users\Даша\Desktop\src\1.jpg);
+    width: 2000px;
+    height: 776px;
+}
+.banner q{
+text-align: center;
+color: rgb(51, 0, 99);
+padding-top: 120px;
+font-size: 20px;
+}
+.banner w{
+    text-align: center;
+    color: rgb(20, 0, 59);
+}
+.contacts{
+    text-align: center;
+    background-color: rgb(100, 0, 139);
+}
